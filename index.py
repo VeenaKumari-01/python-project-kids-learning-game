@@ -46,10 +46,10 @@ def start_main_page():
         host="localhost",
         user="root",
         password="veena123",
-        database="spipl")
-
+        database="LOGINMEMBER")
+        mycursor.execute("CREATE DATABASE LOGINMEMBER")
         mycursor=mb.cursor()
-        #mycursor.execute("create table member(username VARCHAR(255),password VARCHAR(255))")
+        mycursor.execute("create table member(username VARCHAR(255),password VARCHAR(255))")
         
         lb1=Label(l1,text="PLEASE FILL YOUR DETAIL HERE *",fg="red",bg='#eddfdb',font=("bold",18)).place(x=120, y=20)
         lbl_username = Label(l1, text = "PLAYERNAME* :",bg='#e9e1d6' ,font=('arial', 14), bd=15)
