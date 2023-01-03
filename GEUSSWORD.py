@@ -12,7 +12,7 @@ GEUSS_ANSWER = ['BIRD', 'DOG', 'DONKEY', 'GIRAFFE', 'CABBAGE', 'CHILI', 'GARLIC'
                 'PURPLE', 'LIME', 'BROWN', 'NAVY', 'PINK','HEAD', 'HAIR', 'EYE', 'EARS', 'NOSE', 'MOUTH', 'CHIN', 'FOREHEAD', 'JAW', 'CHEEK','CIRCLE',
                 'SQUARE','TRIANGLE','MOUSE', 'TIGER', 'RABBIT', 'RAT','BICYCLE', 'CAR', 'BUS', 'TRAIN', 'TRUCK', 'VAN','MOTORCYCLE', ]
 
- 
+
 
 ran_num = randrange(0, (len(GEUSS_WORD)))
 jumbled_rand_word = GEUSS_WORD[ran_num]
