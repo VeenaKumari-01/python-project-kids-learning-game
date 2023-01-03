@@ -7,6 +7,7 @@ def start_game(args):
         elif args == 2:
             import picturegame
             picturegame.main()
+                
         
 def option():
         global main_window1
