@@ -2,7 +2,6 @@ from tkinter import *
 import mysql.connector
 
 
-
 def start_main_page():
     def start_game(args):
         main_window1.destroy()
