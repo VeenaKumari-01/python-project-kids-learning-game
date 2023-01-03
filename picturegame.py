@@ -8,6 +8,7 @@ def main():
         my_window.destroy()
         import option
         
+        
     def exit_fromhere():
           my_window.destroy()
           m1=Tk()
