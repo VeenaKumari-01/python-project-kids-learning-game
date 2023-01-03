@@ -22,3 +22,10 @@
 * If your answer is incorrect. Then You lose  5 point for ech wrong ans form the total .
 * At thr end it will give result as total score ,incorrectly answered and correctly answered.
 
+## Screenshot are given below:-
+![Screenshot (1173)](https://user-images.githubusercontent.com/57951511/210342748-b21ad1e6-ff81-4e49-a509-347f49d66370.png)
+![Screenshot (1175)](https://user-images.githubusercontent.com/57951511/210342782-c807bcc9-05c1-4c8f-a781-bcc1595a9529.png)
+![Screenshot (1177)](https://user-images.githubusercontent.com/57951511/210342813-6d740be1-2ecf-46de-b830-f15d5e156485.png)
+![Screenshot (1179)](https://user-images.githubusercontent.com/57951511/210342845-694377df-db3f-4eff-970b-5767916a4724.png)
+![Screenshot (1198)](https://user-images.githubusercontent.com/57951511/210342878-f665f105-3f52-4d56-b6b0-53e07c546038.png)
+![Screenshot (1189)](https://user-images.githubusercontent.com/57951511/210342928-641ea4a3-9497-4196-8e51-7b0e75079384.png)
