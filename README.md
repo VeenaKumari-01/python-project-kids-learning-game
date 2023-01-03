@@ -10,6 +10,7 @@
 ## Libaries Required :-
 * Tkinter ( this is an in-built library which does not need to be installed).
 * Random
+* mysqlconnector
 * Along with this basic classes and methods have been used.
 
 ## How To Play :-
